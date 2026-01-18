@@ -1,0 +1,16 @@
+Feature,Data_Type,Missing_Count,Missing_Pct,Unique_Values,Mean,Std,Min,Max,Skewness,Outlier_Count,Outlier_Pct
+building_id,object,0,0.0,1631,,,,,,,
+year,int64,0,0.0,2,2016.51,0.5,2016.0,2017.0,-0.03,0.0,0.0
+meter,object,0,0.0,8,,,,,,,
+total_meter_reading,float64,0,0.0,5785,96514212.57,757272092.84,0.0,24513998933.86,16.5,862.0,14.61
+site_id,object,0,0.0,19,,,,,,,
+sqm,float64,0,0.0,1567,9240.33,10316.38,26.3,81290.1,2.74,339.0,5.74
+primaryspaceusage,object,55,0.93,16,,,,,,,
+yearbuilt,float64,3121,52.88,117,1970.14,29.91,1900.0,2017.0,-0.51,0.0,0.0
+region,object,1005,17.03,13,,,,,,,
+country,object,1005,17.03,4,,,,,,,
+Avg_AirTemp_Annual,float64,0,0.0,29,15.67,5.71,7.53,25.21,0.4,0.0,0.0
+Total_HDD_Annual,float64,0,0.0,29,1381.26,1042.43,58.53,3422.98,0.15,0.0,0.0
+Total_CDD_Annual,float64,0,0.0,26,332.99,436.85,0.0,1506.85,1.71,608.0,10.3
+Count_Heating_Days_Annual,int64,0,0.0,27,161.12,86.83,20.0,315.0,-0.32,0.0,0.0
+Count_Cooling_Days_Annual,int64,0,0.0,23,82.62,70.88,0.0,201.0,0.37,0.0,0.0
