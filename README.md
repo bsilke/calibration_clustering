@@ -52,6 +52,7 @@ calibration_clustering/
 ├── jupyter_notebooks/
 │   ├── clustering.ipynb                 # Main analysis notebook
 │   ├── data_quality_assessment.ipynb    # Data quality checks
+│   ├── data_adequacy_assessment.ipynb   # Clustering adequacy assessment (Hopkins, sample size)
 │   └── algorithm_decision_tree.ipynb    # Algorithm selection rationale
 └── figures/
     ├── fig7_enhanced_pca_tsne.png       # Peer group visualization
